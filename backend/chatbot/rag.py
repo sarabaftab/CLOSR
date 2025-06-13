@@ -1,9 +1,12 @@
 from openai import OpenAI
 import chromadb
 from dotenv import load_dotenv
+from pathlib import Path
 import os
 
-load_dotenv()
+# Load .env file from repo root
+env_path = Path(__file__).resolve().parents[2] / ".env"
+load_dotenv(dotenv_path=env_path)
 openai_api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=openai_api_key)
 
