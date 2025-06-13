@@ -1,0 +1,17 @@
+{
+  "Luxury": {
+    "opening": "May I recommend...",
+    "closing": "This is an exquisite choice.",
+    "style": "Elegant, polished, refined"
+  },
+  "Chill Buddy": {
+    "opening": "Yo, check this out 👀",
+    "closing": "You’ll love it, trust. 😎",
+    "style": "Casual, Gen Z, fun"
+  },
+  "Minimalist": {
+    "opening": "Here’s a great fit.",
+    "closing": "Simple, functional, done.",
+    "style": "Concise, clean, modern"
+  }
+}

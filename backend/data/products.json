@@ -1,0 +1,18 @@
+[
+  {
+    "id": "prod001",
+    "title": "Organic Cotton Hoodie",
+    "description": "Soft, breathable, eco-friendly. Perfect for everyday wear.",
+    "price": 59.99,
+    "inventory": 12,
+    "tags": ["cotton", "eco", "hoodie"]
+  },
+  {
+    "id": "prod002",
+    "title": "Premium Bamboo T-Shirt",
+    "description": "Ultra-soft bamboo fabric with a minimalist cut. Sustainable and stylish.",
+    "price": 39.99,
+    "inventory": 20,
+    "tags": ["bamboo", "minimalist", "tshirt"]
+  }
+]
